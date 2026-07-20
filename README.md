@@ -105,16 +105,6 @@ Git • GitHub • VS Code • Postman • Cloudinary • Vercel • Render
 
 ---
 
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Yashaswini-2006-4&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Yashaswini-2006-4&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashaswini-2006-4&layout=compact&theme=tokyonight)
-
----
-
 # 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=Yashaswini-2006-4&theme=algolia&no-frame=true&row=1)
